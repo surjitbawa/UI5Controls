@@ -1,0 +1,10 @@
+Description=ES4 
+Type=HTTP
+TrustAll=true
+Authentication=NoAuthentication
+Name=ES4
+ProxyType=Internet
+URL=https://sapes4.sapdevcenter.com:443
+WebIDEUsage=odata_abap, dev_abap, ui5_execute_abap
+WebIDESystem=ES4
+WebIDEEnabled=true
